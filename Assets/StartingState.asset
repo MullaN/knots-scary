@@ -16,3 +16,6 @@ MonoBehaviour:
     entrance to Knot's Scary Farm. The amount of teenagers around you is terrifying.\r\nYou
     get your ticket scaned and enter the park surrounded by a thick fog. \r\n\r\nWhere
     would you like to go first?\r\n1. Ride a rollercoaster.\r\n2. Grab a Drink."
+  nextStates:
+  - {fileID: 11400000, guid: 40719693055813544a65564ed164b1af, type: 2}
+  - {fileID: 11400000, guid: 0a9acff06a7166e4a86aa12308958fbc, type: 2}
